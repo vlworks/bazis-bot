@@ -1,7 +1,7 @@
 <?php
 
 
-use VLWorks\BazisBot;
+namespace VLWorks\BazisBot;
 
 class BazisClipHttpSendler
 {
