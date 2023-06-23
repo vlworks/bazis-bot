@@ -3,6 +3,8 @@
 
 namespace VLWorks\BazisBot;
 
+use stdClass;
+
 class BazisClipHttpSendler
 {
     private string $API_URL = 'https://api.telegram.org/';
