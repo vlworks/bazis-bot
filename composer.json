@@ -1,0 +1,19 @@
+{
+    "name": "vlworks/bazis-bot",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "VLWorks\\BazisBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladislav Lyakishev",
+            "email": "vlad169@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "description": "Test Lib"
+}
